@@ -1,9 +1,11 @@
 # Changelog
 
 ## Current
-
 -   Add latest changes here
 
+
+## [43.2.0]
+test
 ## [43.2.0](https://github.com/isaul32/ckeditor5-math/compare/v43.1.2...v43.2.0) (2024-10-14)
 
 -   Update dependencies for CKEditor 43.2.0 ([Release
